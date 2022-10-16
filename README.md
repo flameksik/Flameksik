@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Urto&style=flat-square&color=blue" alt=""/>
 
 <!---
 Urto/Urto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
