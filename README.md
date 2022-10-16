@@ -34,6 +34,19 @@
 
 - :mailbox: Связаться: [![ Vkontakte Badge ](https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white)](https://vk.com/vk2022god)
 
+---
+
+### :hammer_and_wrench: Языки програмирования которые я знаю(Частично) :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
+ 
+
+</div>
+
+
 <!---
 Urto/Urto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
