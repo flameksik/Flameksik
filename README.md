@@ -8,7 +8,7 @@
   <a href="https://vk.com/vk2022god">
     <img src="https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white" alt="VKontakte Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCeRD9bfDru19XUHGa65Xmnw">
+  <a href="https://www.youtube.com/channel/UCmYy7R0nbRq7sPBU4GyH37Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/gdeUrto">
