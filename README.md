@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"/>
 </div>
 
+---
+
 <div id="badges">
   <a href="https://vk.com/vk2022god">
     <img src="https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white" alt="VKontakte Badge"/>
@@ -15,9 +17,22 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Urto&style=flat-square&color=blue" alt=""/>
 
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/AktWnkwYkoLMz0RAHe/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: Обо мне :
+- :telescope: Я начинающий разработчик.
+
+- :seedling: Сотрудничество пока не нужно!.
+- 
+- :zap: Я живу в России и говорю по русски.
+
+- :mailbox: Связаться: [![ Vkontakte Badge ](https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white)](https://vk.com/vk2022god)
 
 <!---
 Urto/Urto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
