@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"/>
 </div>
+
 <div id="badges">
   <a href="https://vk.com/vk2022god">
     <img src="https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white" alt="VKontakte Badge"/>
