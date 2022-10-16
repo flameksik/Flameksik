@@ -55,10 +55,7 @@
 
 ---
 
-### :writing_hand: Посты в блоге :
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
 
 
 
